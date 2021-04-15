@@ -1,0 +1,115 @@
+*
+{	
+	box-sizing:border-box;
+}
+
+.log
+{
+	display:inline-block;
+	float:right;
+}
+
+.content
+{
+	height:100px;
+	font-size:20px;
+	padding-left:0px;
+}
+
+.banner
+{
+	margin-top:10px;
+	box-shadow:-8px -8px rgb(-104, -223, -187);
+	margin-bottom:8px;
+}
+
+.menu a
+{
+	margin-top:15px;
+	text-decoration:none;
+	font-size:20px;
+}
+a:hover
+{
+	color:red;
+}
+
+.img
+{
+	margin-bottom:10px;
+}
+.links
+{
+	text-align:center;
+	font-size:20px;
+	color:white;
+	background-color:#CC379F;
+	height:30px;
+	padding-top:2px;
+	
+	box-shadow: -6px -6px rgb(90, 238, 75);
+	margin-bottom:10px;
+}
+
+.indent
+{
+	text-align:center;
+	margin-bottom:10px;
+	font-weight:bold;
+}
+.gov
+{
+	margin-top:10px;
+	margin-left:400px;
+	margin-bottom:10px;
+}
+
+.contain
+{
+	text-align:justify;
+	margin-top:10px;
+	color:blue;
+	margin-bottom:10px;
+	margin-left:-20px;
+}
+
+.contain img
+{
+	margin-left:50px;
+}
+.abc
+{
+	height:50px;
+	background-color:#9A9F9A;
+	font-size:15px;
+	text-align:left;
+	margin-left:-400px;
+	box-shadow:8px 8px rgb(223, 219, 99);
+	margin-bottom:10px;
+}
+
+.text
+{
+	
+	text-align:justify;
+}
+
+
+.footer
+{
+	height:180px;
+	background-color:#FCD1AF;
+	margin-top:10px;
+	font-size:18px;
+	padding-top:12px;
+	text-align:center;
+	
+	margin-left:-400px;
+	color:blue;
+	margin-bottom:10px;
+}
+
+.footer b
+{
+	color:red;
+}

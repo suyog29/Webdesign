@@ -1,0 +1,100 @@
+*
+{
+	box-sizing:border-box;
+}
+
+.logo
+{
+	border-style:solid;
+}
+
+.cname
+{
+	height:150px;
+	background-color:#149E18;
+	text-align:center;
+	padding-top:40px;
+	font-size:60px;
+	color:blue;
+}
+
+.menu
+{
+	background-color:#484A48;
+	height:40px;
+	margin-top:5px;
+	text-align:center;
+	padding-top:8px;
+	font-size:20px;
+	
+}
+
+.menu a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+
+.banner
+{
+	height:600px;
+	margin-top:8px;
+	background-image:url('../photo/Headphones.jpg');
+	background-attachment:fixed;
+	
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+	padding-top:50px;
+	color:red;
+}
+
+.section_banner
+{
+	height:50px;
+	background-color:#149E18;
+	margin-top:8px;
+	font-size:20px;
+	text-align:center;
+	padding-top:12px;
+	color:white;
+	font-weight:bold;
+	
+	box-shadow:10px 10px rgb(236, 59, 236);
+	margin-bottom:5px;
+}
+
+.ab_content
+{
+	text-align:justify;
+}
+
+.project h2
+{
+	text-align:center;
+}
+
+.project p
+{
+	text-align:justify;
+}
+
+.address h2
+{
+	text-align:center;
+}
+
+.footer
+{
+	height:200px;
+	background-color:#316736;
+	margin-top:5px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:15px;
+	color:white;
+	box-shadow:5px 5px rgb(215,218,210);
+	margin-bottom:10px;
+} 	
